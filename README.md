@@ -1,1 +1,1 @@
-# DSP-Assignment
+# Energy Compaction Properties of transforms
